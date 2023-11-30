@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
      "predeploy":"vite build",
-    "deploy":"gh-pages -d dist -r https://github.com/williamxiewz/vuepage.git -b gh-pages"
+    "deploy":"gh-pages -d dist -r https://github.com/williamxiewz/reactpage.git -b gh-pages"
   },
   "dependencies": {
     "react": "^18.2.0",
